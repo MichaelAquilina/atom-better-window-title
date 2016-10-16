@@ -1,7 +1,7 @@
 {
   "name": "better-window-title",
   "main": "./lib/better-window-title",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Improve Atom's window title",
   "keywords": [
     "window",
