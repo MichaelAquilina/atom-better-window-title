@@ -6,3 +6,5 @@ It does this by simply changing it to the following format:
 ```
 Atom - ({project name}) {relative file path}
 ```
+
+![Better Window Title](https://i.imgur.com/sAmsP8F.png)
